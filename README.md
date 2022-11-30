@@ -3,13 +3,14 @@ making a portfolio
 
 
 [![MasterHead](https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif)
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">Knack Of Building application with front and backend operations.</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I'm Swapnil Wakchaure</h1>
+<h3 align="center">Knack Of Building application with frontend and backend operations.</h3>
 <img align="right" alt="Coding" width="400"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kjjhwo55qhdb3rhwg7crztgskyab5btt4tq1gygx&rid=giphy.gif&ct=g"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshongithub&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshongithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilwakchaure&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilwakchaure" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- 👋 -->
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <h2>Self Motivated Full-Stack web developer
 with hands on experience in developing
@@ -26,13 +27,12 @@ built upon my developer skills.</h2>
 
 -  💬 My Group Project - ModeSens Clone [Link is Here](https://sadhakvishu.github.io/Slytherin/)
 
--  💬 My Solo Project With React JS - ASOS Clone- Fashion Demands Variety   [Check Here](https://asos-lake.vercel.app/)
+-  💬 My Solo Project With React JS - cult.fit Clone- Physical Fitness Training   [Check Here](https://cult-fit-website-clone.netlify.app/)
 
-- 💬  Ask Me About - React JS , JAVASCRIPT , CSS , MONGODB
+- 💬  Ask Me About - React JS ,HTML , JAVASCRIPT , CSS , MONGODB
 
-- 📫 How to reach me **famedustevershine@gmail.com**
+- 📫 How to reach me [sw.wakchaure@gmail.com](https://mail.google.com/mail/u/2/#inbox)
 
-- ⚡ Fun fact **Iam A Music Producer**
 
 
 <hr/>
@@ -40,9 +40,9 @@ built upon my developer skills.</h2>
 <h1>Projects</h1>
 
 
-<h3>ASOS Clone:</h3>
+<h3>cult.fit clone:</h3>
 
-<h4>ASOS Is A Shopping Website Where We Have Variety Of Brands With Details</h4>
+<h4>cult.fit is fitness website where you can buy courses regarding fitness</h4>
 
 <h4>Tech Stack: REACT JS , CHAKRA UI , NETLIFY</h4>
 
@@ -64,7 +64,7 @@ Click Here To Check My Project: [Link is Here](https://sadhakvishu.github.io/Sly
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/utkarshongithub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="utkarshongithub" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/swapnilwakchaure2411999" target="blank"><img align="center" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" alt="codesandbox-swapnil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh sharma" height="30" width="40" /></a>
 <a href="https://fb.com/utkarsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarsh sharma" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/noxious beats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxious beats" height="30" width="40" /></a>
@@ -79,4 +79,4 @@ Click Here To Check My Project: [Link is Here](https://sadhakvishu.github.io/Sly
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshongithub&" alt="utkarshongithub" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph username=swapnilwakchaure" alt="swapnil-graph-work"></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph username=swapnilwakchaure" alt="swapnil-graph-work" /></p>
