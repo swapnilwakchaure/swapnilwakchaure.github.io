@@ -68,11 +68,11 @@ Click Here To Check My Project: [Link is Here](https://sadhakvishu.github.io/Sly
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.io/u/swapnilwakchaure2411999" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgZ9kfPeKQVjv7f9vHpioNJmHPrM3dIapT0ywJteS2MuBS6GyEbBzFHQZBSKGGpoaUAs&usqp=CAU" alt="codesandbox-swapnil" height="30" width="40" />
+<a href="https://codesandbox.io/u/swapnilwakchaure2411999" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgZ9kfPeKQVjv7f9vHpioNJmHPrM3dIapT0ywJteS2MuBS6GyEbBzFHQZBSKGGpoaUAs&usqp=CAU" alt="codesandbox-swapnil" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/swapnil-wakchaure-675071202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/swapnil-wakchaure-675071202/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-linkedin" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/swapnil.wakchaure.750/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swapnil-facebook" height="30" width="40" />
+<a href="https://www.facebook.com/swapnil.wakchaure.750/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swapnil-facebook" height="30" width="40" />
 </a>
 </p>
 
