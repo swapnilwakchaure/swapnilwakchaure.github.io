@@ -9,7 +9,6 @@ making a portfolio
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilwakchaure&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilwakchaure" /> </p>
 
-<!-- 👋 -->
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <h2>Self Motivated Full-Stack web developer
@@ -64,7 +63,7 @@ Click Here To Check My Project: [Link is Here](https://sadhakvishu.github.io/Sly
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.io/u/swapnilwakchaure2411999" target="blank"><img align="center" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" alt="codesandbox-swapnil" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/swapnilwakchaure2411999" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgZ9kfPeKQVjv7f9vHpioNJmHPrM3dIapT0ywJteS2MuBS6GyEbBzFHQZBSKGGpoaUAs&usqp=CAU" alt="codesandbox-swapnil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh sharma" height="30" width="40" /></a>
 <a href="https://fb.com/utkarsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarsh sharma" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/noxious beats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noxious beats" height="30" width="40" /></a>
