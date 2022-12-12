@@ -111,7 +111,3 @@ Click Here To Check My Project: [Link is Here](https://sadhakvishu.github.io/Sly
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilwakchaure" alt="swapnil-contributions" />
 </p>
-
-<p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=swapnilwakchaure" alt="swapnil-graph-work" />
-</p>
