@@ -1,0 +1,49 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+}
+
+#navbar-components {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#navbar-components > a {
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+}
+
+#navbar-components > a {
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: darkred;
+    transition: 0.3s ease-in-out;
+}
+
+#navbar-components > a > li:hover {
+    color: darkblue;
+}
+
+#navbar-components > a > li:hover::after {
+    content: "";
+    width: 60%;
+    height: 2px;
+    background-color: darkblue;
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+}
+
+@media screen and (max-width: 780px) {
+    #navbar-components {
+        display: none;
+    }
+}
