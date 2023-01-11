@@ -1,0 +1,37 @@
+.home-section {
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, max-content));
+    /* grid-gap: 5%; */
+    padding: 5% 10%;
+}
+
+.home-section-image {
+    /* border: 1px solid red; */
+    width: 80%;
+}
+
+.home-section-image > img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.home-section-introduction {
+    /* border: 1px solid blue; */
+    padding: 60px 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.home-section-my-name {
+    /* border: 1px solid red; */
+    font-weight: bold;
+}
+
+
+@media screen and (max-width: 752px) {
+    .home-section-image {
+        /* border: 1px solid red; */
+        margin: auto;
+    }
+}
