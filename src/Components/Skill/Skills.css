@@ -1,0 +1,62 @@
+.skill-section {
+    /* border: 2px solid red; */
+    background-color: gray;
+}
+
+.skill-section > h1 {
+    color: white;
+    padding: 20px 0px;
+}
+
+.skill-section-data {
+    /* border: 1px solid blue; */
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* align-items: center; */
+}
+
+.skill-section-data > div > img {
+    width: 50%;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.skill-section-data > div > img:hover {
+    background-color: white;
+}
+
+.skill-section-data > div > p {
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+
+@media screen and (max-width: 810px) {
+    .skill-section-data {
+        width: 80%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .skill-section-data {
+        width: 80%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .skill-section-data {
+        width: 80%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

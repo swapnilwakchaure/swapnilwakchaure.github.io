@@ -1,0 +1,53 @@
+.about-section {
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, max-content));
+    /* grid-gap: 5%; */
+    padding: 5% 10%;
+}
+
+.about-section-image {
+    /* border: 1px solid red; */
+    width: 80%;
+}
+
+.about-section-image > img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.about-section-introduction {
+    /* border: 1px solid blue; */
+    padding: 60px 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.about-section-my-name {
+    /* border: 1px solid red; */
+    font-weight: bold;
+}
+
+.about-section-introduction > a > button {
+    /* border: 1px solid red; */
+    margin: 30px 0px;
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+}
+
+.about-section-introduction > a > button:hover {
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+
+
+@media screen and (max-width: 752px) {
+    .about-section-image {
+        /* border: 1px solid red; */
+        margin: auto;
+    }
+}

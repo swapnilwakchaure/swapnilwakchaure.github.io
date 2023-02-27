@@ -1,0 +1,115 @@
+.home-section-main {
+    /* height: 400px; */
+    /* border: 2px solid red; */
+}
+
+.home-section-container {
+    /* border: 1px solid green; */
+    margin: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-evenly;
+}
+
+.home-intro-section {
+    /* border: 1px solid red; */
+    /* margin: 30px 0px 10px 200px; */
+    width: 65%;
+    margin: auto auto auto 200px;
+}
+
+.home-job-position {
+    width: 100%;
+    font-size: 280%;
+    font-weight: 1000;
+    /* border: 1px solid red; */
+}
+
+.home-social-media-icons {
+    /* border: 1px solid red; */
+    width: 350px;
+    display: flex;
+}
+
+.home-social-media-icons > a {
+    margin: 10px 10px;
+    font-size: 30px;
+    border: 1px solid #8860D0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.home-social-media-icons > a:hover {
+    color: white;
+    /* background-color: #C1C8F4; */
+    background-color: rgb(134, 134, 235);
+}
+
+
+.home-section-cover-image > img {
+    /* border: 1px solid red; */
+    width: 200px;
+    margin: 0px 100px 0px 0px;
+}
+
+.home-resume-button {
+    margin: 20px 0px 0px 10px;
+    display: flex;
+}
+
+.home-resume-button > a > button {
+    padding: 15px 30px;
+    font-weight: 600;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    /* background-color: #C1C8E4; */
+    background-color: rgb(124, 124, 225);;
+    color: white;
+}
+
+.home-resume-button > a > button:hover {
+    cursor: pointer;
+    /* background-color: #939ec8; */
+    background-color: rgb(144, 144, 245);
+}
+
+
+@media screen and (max-width: 925px) {
+    .home-section-cover-image > img {
+        display: none;
+    }
+    .home-intro-section {
+        /* border: 1px solid red; */
+        width: 65%;
+        margin: 30px 0px 0px 200px;
+    }
+    .home-job-position {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .home-intro-section {
+        /* border: 1px solid red; */
+        width: 80%;
+        margin: 30px 0px 10px 80px;
+    }
+    .home-job-position {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .home-intro-section {
+        /* border: 1px solid red; */
+        width: 70%;
+        margin: 30px 0px 10px 80px;
+    }
+    .home-job-position {
+        width: 100%;
+        font-size: 37px;
+    }
+}
+
+

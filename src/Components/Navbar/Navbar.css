@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    /* border: 1px solid red; */
+    /* background-color: #C1C8E4; */
+    background-color: rgb(124, 124, 225);;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+    position: sticky;
+    top: 0;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+}
+
+.home,
+.about,
+.skills,
+.projects,
+.contact,
+.resume {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin: 0px 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.resume {
+    border: 1px solid #1f2833;
+    border-radius: 5px;
+}
+
+.mobile-menu-icon {
+    display: none;
+}
+
+@media screen and (max-width: 925px) {
+    .logo {
+        display: flex;
+        position: absolute;
+        /* top: 15px; */
+        left: 35px;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .nav-links-mobile {
+        position: absolute;
+        display: block;
+        list-style: none;
+        left: 0;
+        top: 75px;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        background-color: #d0d3df;
+    }
+
+    .home,
+    .about,
+    .skills,
+    .projects,
+    .contact,
+    .resume {
+        text-align: center;
+        padding: 32px;
+        width: 100%;
+        transition: all 0.5s ease;
+    }
+
+    .resume {
+        border: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+        position: absolute;
+        font-size: 30px;
+        border: none;
+        outline: none;
+        padding: 5px 10px;
+        border-radius: 10px;
+        /* top: 15px; */
+        right: 25px;
+    }
+
+}
