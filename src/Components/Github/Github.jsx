@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Github = () => {
 
     return (
-        <div>
+        <GithubWrapper>
             <Header>Github</Header>
 
             <GitCalender>
@@ -31,15 +31,22 @@ const Github = () => {
                     />
                 </div>
             </StateStreak>
-        </div>
+        </GithubWrapper>
         )
 }
 
 export default Github;
 
 
+const GithubWrapper = styled.div`
+  background-color: #C1C8E4;
+  padding: 20px 0px;
+`
+
+
 const Header = styled.h1`
   margin: 20px 0px;
+  color: white;
 `
 
 const GitCalender = styled.div`

@@ -46,5 +46,29 @@ export const skillData = [
         src: "https://img.icons8.com/color/192/mongodb.png",
         alt: "mongodb-image-logo",
         name: "MongoDB"
+    },
+    {
+        id: 9,
+        src: "https://img.icons8.com/color/96/replit.png",
+        alt: "replit-image-logo",
+        name: "Replit"
+    },
+    {
+        id: 10,
+        src: "https://img.icons8.com/color/96/visual-studio-code-2019.png",
+        alt: "vscode-image-logo",
+        name: "VS Code"
+    },
+    {
+        id: 11,
+        src: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png",
+        alt: "postman-image-logo",
+        name: "Postman"
+    },
+    {
+        id: 10,
+        src: "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png",
+        alt: "netlify-image-logo",
+        name: "Netlify"
     }
 ]

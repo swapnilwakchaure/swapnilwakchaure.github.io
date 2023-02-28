@@ -1,8 +1,6 @@
 .contact-section-main {
     color: white;
     background-color: rgb(124, 124, 225);
-    /* border: 1px solid red; */
-    margin: 40px 0px 0px 0px;
     padding: 10px 0px;
 }
 
@@ -19,7 +17,7 @@
 
 .contacts-social-media-icons {
     /* border: 1px solid red; */
-    width: 4%;
+    width: 12%;
     font-size: 27px;
     line-height: 50px;
     padding: 10px 2px;
@@ -70,25 +68,4 @@
     color: rgb(124, 124, 225);
     background-color: white;
     zoom: 102%;
-}
-
-
-@media screen and (max-width: 860px) {
-    .contacts-social-media-icons {
-        width: 7%;
-    }   
-}
-
-
-@media screen and (max-width: 600px) {
-    .contacts-social-media-icons {
-        width: 10%;
-    }   
-}
-
-
-@media screen and (max-width: 390px) {
-    .contacts-social-media-icons {
-        width: 15%;
-    }   
 }

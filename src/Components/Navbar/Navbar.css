@@ -4,10 +4,11 @@
     box-sizing: border-box;
 }
 
+
+
 .navbar {
     /* border: 1px solid red; */
-    /* background-color: #C1C8E4; */
-    background-color: rgb(124, 124, 225);;
+    background-color: rgb(124, 124, 225);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     display: flex;
     justify-content: space-around;

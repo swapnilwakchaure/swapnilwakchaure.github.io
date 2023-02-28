@@ -55,6 +55,7 @@
 .home-resume-button {
     margin: 20px 0px 0px 10px;
     display: flex;
+    gap: 2%;
 }
 
 .home-resume-button > a > button {

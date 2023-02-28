@@ -5,7 +5,7 @@ import { RxCodesandboxLogo } from "react-icons/rx";
 
 const Home = () => {
     return (
-        <div className="home-section-main" id="#home">
+        <div className="home-section-main" id="home">
             <div className="home-section-container">
                 <div className="home-intro-section">
                     <div className="home-job-position">
@@ -23,8 +23,19 @@ const Home = () => {
                         </a>
                     </div>
                     <div className="home-resume-button">
-                        <a href="/resume.pdf" target="_blank">
+                        {/* <a href="/Swapnil-Wakchaure-Resume.pdf" target="_blank">
                             <button>Resume</button>
+                        </a> */}
+                        <a
+                            href={"Swapnil-Wakchaure-Resume.pdf"}
+                            onClick={() => window.open("Swapnil-Wakchaure-Resume.pdf")}
+                            download={"Swapnil-Wakchaure-Resume.pdf"}
+                            target="_blank"
+                        >
+                            <button>Resume</button>
+                        </a>
+                        <a href="/#contact">
+                            <button>Contact</button>
                         </a>
                     </div>
                 </div>

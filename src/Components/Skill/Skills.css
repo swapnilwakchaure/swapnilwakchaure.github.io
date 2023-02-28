@@ -1,6 +1,7 @@
 .skill-section {
     /* border: 2px solid red; */
-    background-color: gray;
+    background-color: #5AB9;
+    padding-bottom: 20px;
 }
 
 .skill-section > h1 {
@@ -19,7 +20,7 @@
 
 .skill-section-data > div > img {
     width: 50%;
-    border: 1px solid gray;
+    border: none;
     border-radius: 10px;
 }
 
@@ -30,7 +31,7 @@
 .skill-section-data > div > p {
     color: white;
     font-size: 20px;
-    margin: 10px;
+    margin-bottom: 25px;
 }
 
 
