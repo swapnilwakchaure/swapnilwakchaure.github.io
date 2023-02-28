@@ -2,7 +2,7 @@ import "./About.css";
 
 const About = () => {
     return (
-        <div>
+        <div id="about">
             <div className="about-section">
                 <div className="about-section-image">
                     <img src="https://avatars.githubusercontent.com/u/55839053?v=4" alt="swapnil-image" />

@@ -1,5 +1,6 @@
 import { GiHamburgerMenu } from "react-icons/gi"
 import { FaTimes } from "react-icons/fa";
+import { BiDownload } from "react-icons/bi";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
 import { useState } from "react";
@@ -13,28 +14,28 @@ const Navbar = () => {
             <ul className={isMobile ? "nav-links-mobile" : "nav-links"}
                 onClick={() => setIsMobile(false)}
             >
-                <Link to="/" className="home">
+                <a href="/#home" className="home">
                     <li>HOME</li>
-                </Link>
-                <Link to="/" className="about">
+                </a>
+                <a href="/#about" className="about">
                     <li>ABOUT</li>
-                </Link>
-                <Link to="/" className="skills">
+                </a>
+                <a href="/#skills" className="skills">
                     <li>SKILLS</li>
-                </Link>
-                <Link to="/" className="projects">
+                </a>
+                <a href="/#projects" className="projects">
                     <li>PROJECTS</li>
-                </Link>
-                <Link to="/" className="contact">
+                </a>
+                <a href="/#contact" className="contact">
                     <li>CONTACT</li>
-                </Link>
+                </a>
                 <a
                     href="/resume.pdf"
-                    download="Swapnil_Wakchaure_Resume"
+                        download="Swapnil_Wakchaure_Resume"
                     target="_blank"
                     className="resume"
                 >
-                    <li>📥 RESUME</li>
+                    <li><BiDownload /> RESUME</li>
                 </a>
             </ul>
             <button className="mobile-menu-icon"

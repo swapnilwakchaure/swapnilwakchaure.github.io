@@ -9,7 +9,7 @@ import Form from "../Form";
 
 const Contact = () => {
     return (
-        <div className="contact-section-main">
+        <div className="contact-section-main" id="contact">
             <h1>Contact</h1>
             <div className="contact-section-container">
                 <div className="contacts-social-media-icons">

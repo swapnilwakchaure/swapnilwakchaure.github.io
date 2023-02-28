@@ -5,7 +5,7 @@ import { RxCodesandboxLogo } from "react-icons/rx";
 
 const Home = () => {
     return (
-        <div className="home-section-main">
+        <div className="home-section-main" id="#home">
             <div className="home-section-container">
                 <div className="home-intro-section">
                     <div className="home-job-position">

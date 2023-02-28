@@ -8,7 +8,7 @@ import Nykaa from "../../Images/nykaa.png";
 
 const Project = () => {
     return (
-        <div className="project-section-main">
+        <div className="project-section-main" id="projects">
             <h1>Project</h1>
             <div className="project-section-container">
                 <div className="project-section-single-project">

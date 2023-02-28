@@ -1,37 +1,36 @@
 import GitHubCalendar from "react-github-calendar";
+import styled from "styled-components";
 
 const Github = () => {
 
     return (
         <div>
-            <h1>Github</h1>
+            <Header>Github</Header>
 
-            <div>
+            <GitCalender>
                 <GitHubCalendar
                     style={{ margin: "auto" }}
                     username="swapnilwakchaure"
                     // year={new Date().getFullYear()}
                     year={2022}
                 />
-            </div>
-            <div>
-                <p>
-                    <img
+            </GitCalender>
+            <StateStreak>
+                <div>
+                    <Image
                         align="center"
                         src="https://github-readme-stats.vercel.app/api?username=swapnilwakchaure&show_icons=true&locale=en"
                         alt="swapnilwakchaure"
                     />
-                </p>
-            </div>
-            <div>
-                <p>
-                    <img
+                </div>
+                <div>
+                    <Image
                         align="center"
                         src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilwakchaure&"
                         alt="swapnilwakchaure"
                     />
-                </p>
-            </div>
+                </div>
+            </StateStreak>
         </div>
         )
 }
@@ -39,6 +38,39 @@ const Github = () => {
 export default Github;
 
 
+const Header = styled.h1`
+  margin: 20px 0px;
+`
+
+const GitCalender = styled.div`
+  width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+
+  @media (max-width: 400px) {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+`
+
+const StateStreak = styled.div`
+  width: 80%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max-content));
+  grid-gap: 2%;
+  justify-content: center;
+  align-items: center;
+`
+
+const Image = styled.img`
+  width: 90%;
+
+  @media (max-width: 400px) {
+    width: 80%;
+  }
+`
 
 
 {/* <p align="left">
