@@ -27,8 +27,8 @@ const Home = () => {
                             <button>Resume</button>
                         </a> */}
                         <a
-                            href={"Swapnil-Wakchaure-Resume.pdf"}
-                            onClick={() => window.open("Swapnil-Wakchaure-Resume.pdf")}
+                            href={"fw19_1226_Swapnil-Wakchaure-Resume.pdf"}
+                            onClick={() => window.open("fw19_1226_Swapnil-Wakchaure-Resume.pdf")}
                             download={"fw19_1226_Swapnil-Wakchaure-Resume.pdf"}
                             target="_blank"
                         >
