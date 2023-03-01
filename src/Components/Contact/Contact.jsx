@@ -53,7 +53,7 @@ export default Contact;
 
 const ContactWrapper = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(500px, max-content));
+  grid-template-columns: repeat(auto-fit, minmax(350px, max-content));
   justify-content: center;
   align-items: center;
   grid-gap: 5%;

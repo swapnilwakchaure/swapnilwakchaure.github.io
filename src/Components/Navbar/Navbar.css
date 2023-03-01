@@ -68,7 +68,7 @@
         top: 75px;
         transition: all 0.5s ease-out;
         width: 100%;
-        background-color: #d0d3df;
+        background-color: rgb(120, 110, 210);
     }
 
     .home,

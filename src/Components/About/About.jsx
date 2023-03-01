@@ -28,10 +28,10 @@ export default About;
 
 
 const AboutHeader = styled.h1`
-  margin: 50px auto auto auto;
   padding: 10px 0px 0px 0px;
 `
 
 const AboutWrapper = styled.div`
   background-color: #C1C8E4;
+  padding: 100px 0px 0px 0px;
 `

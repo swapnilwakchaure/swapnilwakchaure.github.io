@@ -45,7 +45,8 @@ const GithubWrapper = styled.div`
 
 
 const Header = styled.h1`
-  margin: 20px 0px;
+  width: 30%;
+  margin: 20px auto;
   color: white;
 `
 
@@ -54,7 +55,7 @@ const GitCalender = styled.div`
   margin: auto;
   margin-bottom: 20px;
 
-  @media (max-width: 400px) {
+  @media (max-width: 450px) {
     width: 90%;
     margin: auto;
     margin-bottom: 20px;
@@ -65,7 +66,7 @@ const StateStreak = styled.div`
   width: 80%;
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(450px, max-content));
+  grid-template-columns: repeat(auto-fit, minmax(350px, max-content));
   grid-gap: 2%;
   justify-content: center;
   align-items: center;

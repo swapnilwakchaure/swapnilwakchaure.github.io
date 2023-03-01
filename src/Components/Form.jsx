@@ -53,11 +53,19 @@ const FormName = styled.div`
   gap: 10%;
   align-items: center;
   line-height: 60px;
+
+  @media (max-width: 450px) {
+    margin: 0px;
+  }
 `
 
 const FormLabel = styled.div`
   width: 15%;
   font-size: 18px;
+
+  @media (max-width: 400px) {
+    width: 20%;
+  }
 `
 
 const Label = styled.label`

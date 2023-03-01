@@ -1,12 +1,11 @@
 .skill-section {
-    /* border: 2px solid red; */
     background-color: #5AB9;
-    padding-bottom: 20px;
+    padding: 80px 0px;
 }
 
 .skill-section > h1 {
     color: white;
-    padding: 20px 0px;
+    margin-bottom: 50px;
 }
 
 .skill-section-data {
