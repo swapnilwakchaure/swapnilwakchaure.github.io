@@ -11,8 +11,8 @@ const Github = () => {
                 <GitHubCalendar
                     style={{ margin: "auto" }}
                     username="swapnilwakchaure"
-                    // year={new Date().getFullYear()}
-                    year={2022}
+                    year={new Date().getFullYear()}
+//                     year={2022}
                 />
             </GitCalender>
             <StateStreak>
