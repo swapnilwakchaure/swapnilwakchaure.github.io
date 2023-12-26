@@ -30,9 +30,9 @@ const Navbar = () => {
                     <li>CONTACT</li>
                 </a>
                 <a
-                    href={"fw19_1226_Swapnil-Wakchaure-Resume.pdf"}
-                    onClick={() => window.open("fw19_1226_Swapnil-Wakchaure-Resume.pdf")}
-                    download={"fw19_1226_Swapnil-Wakchaure-Resume.pdf"}
+                    href={"Swapnil-Wakchaure-Resume.pdf"}
+                    onClick={() => window.open("Swapnil-Wakchaure-Resume.pdf")}
+                    download={"Swapnil-Wakchaure-Resume.pdf"}
                     target="_blank"
                     className="resume"
                 >

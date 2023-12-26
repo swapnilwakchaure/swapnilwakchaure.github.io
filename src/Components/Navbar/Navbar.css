@@ -18,6 +18,18 @@
     top: 0;
 }
 
+
+.logo {
+    color: transparent;
+    font-weight: 700;
+    font-size: 30px;
+    background-image: url("https://gomycode.com/wp-content/uploads/2023/09/web-development.gif");
+    background-size: 100% 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    cursor: pointer;
+}
+
 .nav-links {
     display: flex;
     justify-content: flex-end;
